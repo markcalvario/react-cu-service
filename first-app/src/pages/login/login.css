@@ -1,0 +1,47 @@
+.socialSignIn {
+  margin: 16px auto 0;
+}
+
+.links {
+  display: block;
+  width: 100%;
+  margin: 15px auto 0;
+}
+
+.links a {
+  color: black;
+}
+
+@media (max-width: 575.98px) {
+  .signIn {
+    width: 80%;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .signIn {
+    width: 100%;
+    max-width: 400px;
+    margin: 40px auto 60px;
+    border: 1px solid black;
+    font-family: "Open Sans", sans-serif;
+  }
+  .signIn .wrap {
+    padding: 20px 10px;
+  }
+  .signIn .wrap h2 {
+    font-size: 22px;
+    line-height: 1;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: center;
+    display: block;
+    width: 100%;
+    margin: 0 auto 30px;
+    padding: 0;
+  }
+  .signIn .wrap .socialSignIn {
+    margin: 8px auto 0;
+  }
+}
+/*# sourceMappingURL=login.css.map */

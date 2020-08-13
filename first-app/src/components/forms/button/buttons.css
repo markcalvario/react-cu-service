@@ -1,0 +1,22 @@
+.btn {
+  display: block;
+  width: 70%;
+  padding: 10px 0;
+  font-size: 20px;
+  line-height: 1;
+  font-weight: 200;
+  text-transform: uppercase;
+  margin: 0 auto;
+  color: black;
+  border: 0;
+  outline: none;
+  background-color: #E1F2FC;
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .btn {
+    padding: 5px 0;
+    font-size: 1rem;
+  }
+}
+/*# sourceMappingURL=buttons.css.map */

@@ -1,0 +1,175 @@
+{
+    "firstname": "Mark",
+    "lastname": "Calvario",
+    "contact": {
+      "email": "calvariomark@gmail.com",
+      "phone": "(909) 544-6224",
+      "website": "markcalvario.herokuapp.com",
+      "linkedin": "https://www.linkedin.com/in/mark-calvario-6b7a98191/",
+      "github": "https://github.com/markcalvario"
+    },
+    "skills": {
+      "details": [
+        {
+        "type": "Programming Languages",
+        "items": [
+          "Python",
+          "Java",
+          "Javascript",
+          "HTML",
+          "CSS"
+        ]
+      },
+    {
+    "type": "Web Frameworks",
+    "items": [
+    "Flask",
+    "React"
+    ]
+    },
+    {
+    "type": "Databases",
+    "items": [
+    "SQLAlchemy"
+    ]
+    },
+    {
+    "type": "Tools",
+    "items": [
+    "Git",
+    "Heroku",
+    "Bash",
+    "VS Code"
+    ]
+    },
+    {
+    "type": "Interests",
+    "items": [
+    "Cybersecurity",
+    "Machine Learning",
+    "Web Development",
+    "Mobile Development"
+    ]
+    }
+    ]
+    },
+    "github_projects": {
+    "items": [
+    {
+    "project_name": "chenshuiluke/ng-hackernews",
+    "tagline": "[ng-hackernews.lukecs.com](https://ng-hackernews.lukecs.com/)",
+    "description": [
+    "Browse HackerNews without having to open tabs to view comments or having to click to go to the next page."
+    ],
+    "technology_used": {
+    "tools": [
+    "Python",
+    "Django",
+    "PostgreSQL"
+    ]
+    }
+    },
+    {
+    "project_name": "AdiChat/Repository-Hunter",
+    "tagline": "[repository-hunter.herokuapp.com](http://repository-hunter.herokuapp.com/)",
+    "description": [
+    "Making GitHub more socially engaging and fun for all"
+    ],
+   "technology_used": {
+    "tools": [
+    "Python",
+    "Django",
+    "PostgreSQL"
+    ]
+    }
+    }
+    ]
+    },
+    "other_projects": {
+    "items": [
+    {
+    "headline": "Designed a silent slackbot called _Omerta_, for a school project.",
+    "points": [
+    "Was awarded 1<sup>st</sup> prize for brevity of code."
+    ],
+    "technology_used": {
+    "tools": [
+    "Python",
+    "Django",
+    "PostgreSQL"
+    ]
+    }
+    }
+    ]
+    },
+    "work_experience": {
+    "items": [
+    {
+    "title": "Front-End Development Summer Intern 2020",
+   "organization": "Super World",
+    "location": "Remote",
+    "from": "June 2020",
+    "to": "August 2020",
+    "details": [
+    "Contributed to "
+    ],
+    "technology_used": {
+    "tools": [
+        "JQuery",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "VS Code"
+    ]
+    }
+    }
+    ]
+    },
+    "involvement": {
+    "organizations": [
+    "Volunteer, Habitat for Humanity, Birmingham, AL, Fall 2015 to Present",
+    "HACK2020, a 12 hour hackathon that brings together Black and Latinx students from local high schools, Spring 2020",
+    "She++, Ambassador for the Philadelphia area, Fall 2019 to Present"
+    ]
+    },
+    "achievements": {
+    "items": [
+    "Awarded 2<sup>nd</sup> position in Alameda County Science Fair, October 2017",
+    "Chameleon John USA University Student Scholarship",
+    "President, Homebrew Rubyists Club"
+    ]
+    },
+    "additional_info": {
+    "items": [
+    "Languages: English (fluent), Spanish (fluent)",
+    "Interests: Water Polo, Ceramics, Latin American History, Video Games"
+    ]
+    },
+    "education": {
+    "schools": [
+    {
+    "degree": "Bachelor of Science",
+    "major": "Computer Science",
+    "institution": "Columbia University",
+    "graduation_year": 2023
+    }
+    ]
+    },
+    "undergrad_courses": [
+        {
+            "name": "Introduction to Programming in Python"
+        },
+        {
+            "name": "Introduction to Programming in Java"
+        },
+        {
+            "name": "Data Structures in Java"
+        }
+    ],
+    "show_assessments_on_resume": {
+    "required_assessment": true,
+    "optional_assessment_1": true,
+    "optional_assessment_2": true,
+    "optional_assessment_3": true
+    }
+  }

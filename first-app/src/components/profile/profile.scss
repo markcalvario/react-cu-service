@@ -1,0 +1,39 @@
+.profileOutline{
+    border-right: 1px solid rgba($color: #000000, $alpha: 0.5);
+    height: 87.8vh;
+    font-family: "Open Sans",sans-serif;
+    text-align: center;
+    line-height: 1;
+    .defaultProfilePic{
+        font-size: 9rem;
+        width: 100%;
+        text-align: center;
+        padding: 50px 0 25px 0;
+    }
+    .bioTitle{
+        font-weight: 900;
+        font-size: 1.8rem;
+        letter-spacing: 1px;
+    }
+    .displayName{
+        font-size: 1.5rem;
+        padding: 10px 0 10px 0;
+        letter-spacing: 1px;
+    }
+    .bio{
+        display: flex;
+        flex-direction: column;
+    }
+
+}
+.profileColumn{
+    padding: 0px;
+}
+.editClearButton{
+    width: 40%;
+    margin: 0 auto;
+    display: flex;
+}
+.exitIcon{
+    cursor: pointer;
+}

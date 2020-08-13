@@ -1,0 +1,13 @@
+.formRow input {
+  display: block;
+  width: 100%;
+  font-size: 15px;
+  line-height: 1;
+  font-weight: 400;
+  text-align: left;
+  border: 1px solid #9e9e9e;
+  padding: 10px 5px;
+  outline: none;
+  margin: 10px auto;
+}
+/*# sourceMappingURL=formInput.css.map */

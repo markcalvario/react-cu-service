@@ -1,0 +1,20 @@
+$openSans: 'Open Sans', sans-serif;
+html,body, #root,.app,.fullHeight{
+  height:100%;
+}
+.main{
+  height: calc(100% - 128px);
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+/*Footer Section */
+.footer{
+  width: 100%;
+  text-align: center;
+  padding: 20px 0px;
+  position: relative;
+  bottom: 0;
+  background-color: #B9D9EB;
+}

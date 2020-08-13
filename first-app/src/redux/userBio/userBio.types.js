@@ -1,0 +1,8 @@
+const userBioTypes = {
+    ADD_NEW_USER_BIO_START: "ADD_NEW_USER_BIO_START",
+    FETCH_USER_BIO_START: "FETCH_USER_BIO_START",
+    SET_USER_BIO: "SET_USER_BIO",
+    UPDATE_USER_BIO_START: "UPDATE_USER_BIO_START"
+};
+
+export default userBioTypes;
