@@ -1,4 +1,5 @@
 # Early Stages of an e-commerce platform for my school 
+## Using JavaScript, React, React-Redux, Google Firebase, S(CSS), and HTML 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
